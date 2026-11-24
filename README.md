@@ -1,4 +1,4 @@
-# Scope3---procurement-matching
+# Scope3 - procurement-matching
 NLP-based matching of procurement descriptions with emission-factor sectors for Scope 3 accounting.
 # Automated Scope 3 Emissions Estimation – Procurement Data Matching
 
