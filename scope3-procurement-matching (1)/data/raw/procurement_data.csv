@@ -1,0 +1,26 @@
+transaction_id,description,supplier,amount,currency,procurement_date,country
+TR001,Laptop computer Lenovo ThinkPad,Tech Solutions AG,1450,CHF,2026-01-15,Switzerland
+TR002,Purchase of notebook computers,Digital Systems GmbH,3200,CHF,2026-02-10,Switzerland
+TR003,Office desk wooden,Office Design SA,850,CHF,2026-02-12,Switzerland
+TR004,Ergonomic office chair,Workplace Solutions AG,420,CHF,2026-02-20,Switzerland
+TR005,Diesel fuel for company vehicles,Fuel Partners GmbH,780,CHF,2026-03-01,Switzerland
+TR006,Printer paper A4 80gsm,Paper World AG,120,CHF,2026-03-05,Switzerland
+TR007,Copy paper for office printers,Office Supplies SA,95,CHF,2026-03-08,Switzerland
+TR008,Cloud software subscription,Cloud Services Ltd,2400,CHF,2026-03-15,Switzerland
+TR009,IT consulting services,Consulting Partners AG,5500,CHF,2026-03-20,Switzerland
+TR010,Business travel by train,Swiss Rail Services,180,CHF,2026-04-02,Switzerland
+TR011,Hotel accommodation employees,Hotel Group AG,950,CHF,2026-04-10,Switzerland
+TR012,Office cleaning services,Clean Solutions GmbH,600,CHF,2026-04-15,Switzerland
+TR013,Electricity for office building,Energy Provider AG,4200,CHF,2026-04-20,Switzerland
+TR014,Mobile phone devices,Mobile Tech SA,1100,CHF,2026-05-01,Switzerland
+TR015,Computer monitor 27 inch,Digital Systems GmbH,380,CHF,2026-05-04,Switzerland
+TR016,Office furniture cabinets,Office Design SA,1250,CHF,2026-05-10,Switzerland
+TR017,Purchase of laptops for staff,Tech Solutions AG,2900,CHF,2026-05-15,Switzerland
+TR018,Petrol for company cars,Fuel Partners GmbH,650,CHF,2026-05-20,Switzerland
+TR019,Printer toner cartridges,Print Solutions AG,230,CHF,2026-06-01,Switzerland
+TR020,Waste collection services,Waste Management AG,480,CHF,2026-06-05,Switzerland
+TR021,Professional legal consulting,Legal Partners SA,3200,CHF,2026-06-10,Switzerland
+TR022,Data storage cloud services,Cloud Services Ltd,1750,CHF,2026-06-15,Switzerland
+TR023,Office stationery supplies,Office Supplies SA,160,CHF,2026-06-20,Switzerland
+TR024,Business travel by airplane,Travel Services AG,2200,CHF,2026-07-01,Switzerland
+TR025,Maintenance of office equipment,Technical Maintenance GmbH,890,CHF,2026-07-05,Switzerland
