@@ -1,0 +1,76 @@
+transaction_id,procurement_description,rank,sector_id,sector_name
+TR001,Laptop computer Lenovo ThinkPad,1,334111/US,Computers
+TR001,Laptop computer Lenovo ThinkPad,2,334118/US,Computer terminals and other computer peripheral equipment
+TR001,Laptop computer Lenovo ThinkPad,3,332710/US,Machine shops
+TR002,Purchase of notebook computers,1,334111/US,Computers
+TR002,Purchase of notebook computers,2,332710/US,Machine shops
+TR002,Purchase of notebook computers,3,334118/US,Computer terminals and other computer peripheral equipment
+TR003,Office desk wooden,1,33721A/US,Office furniture and custom architectural woodwork and millwork
+TR003,Office desk wooden,2,322110/US,Wood pulp
+TR003,Office desk wooden,3,337127/US,Institutional furniture
+TR004,Ergonomic office chair,1,33721A/US,Office furniture and custom architectural woodwork and millwork
+TR004,Ergonomic office chair,2,337127/US,Institutional furniture
+TR004,Ergonomic office chair,3,337121/US,Home furniture - upholstered
+TR005,Diesel fuel for company vehicles,1,324110/US,"Gasoline, fuels, and by-products of petroleum refining"
+TR005,Diesel fuel for company vehicles,2,324190/US,Other petroleum and coal products
+TR005,Diesel fuel for company vehicles,3,447000/US,Gasoline stations
+TR006,Printer paper A4 80gsm,1,323120/US,Printing support
+TR006,Printer paper A4 80gsm,2,322120/US,Paper
+TR006,Printer paper A4 80gsm,3,322299/US,All other converted paper products
+TR007,Copy paper for office printers,1,339940/US,Office supplies (not paper)
+TR007,Copy paper for office printers,2,323120/US,Printing support
+TR007,Copy paper for office printers,3,322120/US,Paper
+TR008,Cloud software subscription,1,515200/US,Cable and subscription programming
+TR008,Cloud software subscription,2,511200/US,Software
+TR008,Cloud software subscription,3,561900/US,Other support services
+TR009,IT consulting services,1,541610/US,Management consulting
+TR009,IT consulting services,2,5416A0/US,Environmental and other technical consulting services
+TR009,IT consulting services,3,561300/US,Employment services
+TR010,Business travel by train,1,482000/US,Rail transport
+TR010,Business travel by train,2,484000/US,Truck transport
+TR010,Business travel by train,3,485000/US,Passenger ground transport
+TR011,Hotel accommodation employees,1,721000/US,Hotels and campgrounds
+TR011,Hotel accommodation employees,2,814000/US,Household employees
+TR011,Hotel accommodation employees,3,713200/US,Gambling establishments (except casino hotels)
+TR012,Office cleaning services,1,812300/US,Dry-cleaning and laundry
+TR012,Office cleaning services,2,325610/US,Soap and cleaning compounds
+TR012,Office cleaning services,3,561300/US,Employment services
+TR013,Electricity for office building,1,221100/US,Electricity
+TR013,Electricity for office building,2,233240/US,Utilities buildings and infrastructure
+TR013,Electricity for office building,3,335210/US,Small electrical appliances
+TR014,Mobile phone devices,1,334290/US,Communications equipment
+TR014,Mobile phone devices,2,334210/US,Telephones
+TR014,Mobile phone devices,3,517210/US,Wireless telecommunications
+TR015,Computer monitor 27 inch,1,334111/US,Computers
+TR015,Computer monitor 27 inch,2,541512/US,Computer systems design
+TR015,Computer monitor 27 inch,3,33451A/US,"Watches, clocks, and other measuring and controlling devices"
+TR016,Office furniture cabinets,1,33721A/US,Office furniture and custom architectural woodwork and millwork
+TR016,Office furniture cabinets,2,33712N/US,"Home furniture - Cabinets and non-wood, nonupholstered"
+TR016,Office furniture cabinets,3,337127/US,Institutional furniture
+TR017,Purchase of laptops for staff,1,54151A/US,"Other computer related services, including facilities management"
+TR017,Purchase of laptops for staff,2,332710/US,Machine shops
+TR017,Purchase of laptops for staff,3,339113/US,Surgical appliance and supplies
+TR018,Petrol for company cars,1,324110/US,"Gasoline, fuels, and by-products of petroleum refining"
+TR018,Petrol for company cars,2,424700/US,Petroleum and petroleum products
+TR018,Petrol for company cars,3,447000/US,Gasoline stations
+TR019,Printer toner cartridges,1,325910/US,Ink and ink cartridges
+TR019,Printer toner cartridges,2,323120/US,Printing support
+TR019,Printer toner cartridges,3,334418/US,Printed circuit and electronic assembly
+TR020,Waste collection services,1,562000/US,Waste management and remediation
+TR020,Waste collection services,2,812200/US,Funerary services
+TR020,Waste collection services,3,493000/US,Warehousing
+TR021,Professional legal consulting,1,541100/US,Legal services
+TR021,Professional legal consulting,2,541610/US,Management consulting
+TR021,Professional legal consulting,3,5416A0/US,Environmental and other technical consulting services
+TR022,Data storage cloud services,1,518200/US,Data processing and hosting
+TR022,Data storage cloud services,2,334112/US,Computer storage device readers
+TR022,Data storage cloud services,3,335911/US,Storage batteries
+TR023,Office stationery supplies,1,322230/US,Stationery
+TR023,Office stationery supplies,2,339940/US,Office supplies (not paper)
+TR023,Office stationery supplies,3,423400/US,Professional and commercial equipment and supplies
+TR024,Business travel by airplane,1,336411/US,Aircraft
+TR024,Business travel by airplane,2,485000/US,Passenger ground transport
+TR024,Business travel by airplane,3,481000/US,Air transport
+TR025,Maintenance of office equipment,1,811200/US,Electronic  equipment repair and maintenance
+TR025,Maintenance of office equipment,2,333920/US,Material handling equipment
+TR025,Maintenance of office equipment,3,423800/US,"Machinery, equipment, and supplies"

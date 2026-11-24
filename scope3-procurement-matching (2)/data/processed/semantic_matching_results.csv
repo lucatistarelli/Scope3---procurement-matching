@@ -1,0 +1,76 @@
+transaction_id,procurement_description,rank,sector_name,sector_id,emission_factor,similarity_score
+TR001,Laptop computer Lenovo ThinkPad,1,Computers,334111/US,0.04998511892032928,0.36357903480529785
+TR001,Laptop computer Lenovo ThinkPad,2,Computer terminals and other computer peripheral equipment,334118/US,0.1753824825609228,0.27731433510780334
+TR001,Laptop computer Lenovo ThinkPad,3,Machine shops,332710/US,0.3192628486960383,0.25336840748786926
+TR002,Purchase of notebook computers,1,Computers,334111/US,0.04998511892032928,0.4574483335018158
+TR002,Purchase of notebook computers,2,Machine shops,332710/US,0.3192628486960383,0.4440813660621643
+TR002,Purchase of notebook computers,3,Computer terminals and other computer peripheral equipment,334118/US,0.1753824825609228,0.3653927147388458
+TR003,Office desk wooden,1,Office furniture and custom architectural woodwork and millwork,33721A/US,0.3376018706419759,0.6280943155288696
+TR003,Office desk wooden,2,Wood pulp,322110/US,1.457676180617631,0.5267486572265625
+TR003,Office desk wooden,3,Institutional furniture,337127/US,0.3731811365066942,0.5162537097930908
+TR004,Ergonomic office chair,1,Office furniture and custom architectural woodwork and millwork,33721A/US,0.3376018706419759,0.3913651704788208
+TR004,Ergonomic office chair,2,Institutional furniture,337127/US,0.3731811365066942,0.39036989212036133
+TR004,Ergonomic office chair,3,Home furniture - upholstered,337121/US,0.3552030543939145,0.3504623472690582
+TR005,Diesel fuel for company vehicles,1,"Gasoline, fuels, and by-products of petroleum refining",324110/US,0.9171408720145141,0.5090963840484619
+TR005,Diesel fuel for company vehicles,2,Other petroleum and coal products,324190/US,1.227470562458274,0.4702775478363037
+TR005,Diesel fuel for company vehicles,3,Gasoline stations,447000/US,0.2731114726400957,0.461288720369339
+TR006,Printer paper A4 80gsm,1,Printing support,323120/US,0.2624855910844411,0.4978784918785095
+TR006,Printer paper A4 80gsm,2,Paper,322120/US,1.245452532734796,0.4935063421726227
+TR006,Printer paper A4 80gsm,3,All other converted paper products,322299/US,0.6753098097846342,0.4625416398048401
+TR007,Copy paper for office printers,1,Office supplies (not paper),339940/US,0.3689476981276405,0.6279346942901611
+TR007,Copy paper for office printers,2,Printing support,323120/US,0.2624855910844411,0.610680103302002
+TR007,Copy paper for office printers,3,Paper,322120/US,1.245452532734796,0.5829540491104126
+TR008,Cloud software subscription,1,Cable and subscription programming,515200/US,0.109095441210092,0.5458095669746399
+TR008,Cloud software subscription,2,Software,511200/US,0.0510508383887503,0.32058629393577576
+TR008,Cloud software subscription,3,Other support services,561900/US,0.1489363785073143,0.3198697865009308
+TR009,IT consulting services,1,Management consulting,541610/US,0.0771801688687482,0.7206155061721802
+TR009,IT consulting services,2,Environmental and other technical consulting services,5416A0/US,0.09608284931860891,0.6052748560905457
+TR009,IT consulting services,3,Employment services,561300/US,0.06038572761782317,0.5311261415481567
+TR010,Business travel by train,1,Rail transport,482000/US,0.5616144656427602,0.6418240070343018
+TR010,Business travel by train,2,Truck transport,484000/US,0.8606978976823281,0.5521524548530579
+TR010,Business travel by train,3,Passenger ground transport,485000/US,0.5638192180023799,0.5370749235153198
+TR011,Hotel accommodation employees,1,Hotels and campgrounds,721000/US,0.1745188728133147,0.5990381240844727
+TR011,Hotel accommodation employees,2,Household employees,814000/US,0.0,0.4544733762741089
+TR011,Hotel accommodation employees,3,Gambling establishments (except casino hotels),713200/US,0.2113864682455066,0.4208775758743286
+TR012,Office cleaning services,1,Dry-cleaning and laundry,812300/US,0.1936214538856483,0.578411340713501
+TR012,Office cleaning services,2,Soap and cleaning compounds,325610/US,0.6409808657400424,0.5373219847679138
+TR012,Office cleaning services,3,Employment services,561300/US,0.06038572761782317,0.5348199605941772
+TR013,Electricity for office building,1,Electricity,221100/US,3.441131169656384,0.6293818354606628
+TR013,Electricity for office building,2,Utilities buildings and infrastructure,233240/US,0.337526471036412,0.5294009447097778
+TR013,Electricity for office building,3,Small electrical appliances,335210/US,0.2162963924760672,0.5158690810203552
+TR014,Mobile phone devices,1,Communications equipment,334290/US,0.09012098596683783,0.5104649066925049
+TR014,Mobile phone devices,2,Telephones,334210/US,0.1037070760480744,0.5095986127853394
+TR014,Mobile phone devices,3,Wireless telecommunications,517210/US,0.1053216146516518,0.506888747215271
+TR015,Computer monitor 27 inch,1,Computers,334111/US,0.04998511892032928,0.2862241864204407
+TR015,Computer monitor 27 inch,2,Computer systems design,541512/US,0.0850057884510131,0.24683308601379395
+TR015,Computer monitor 27 inch,3,"Watches, clocks, and other measuring and controlling devices",33451A/US,0.1152520853322771,0.2367016077041626
+TR016,Office furniture cabinets,1,Office furniture and custom architectural woodwork and millwork,33721A/US,0.3376018706419759,0.717454195022583
+TR016,Office furniture cabinets,2,"Home furniture - Cabinets and non-wood, nonupholstered",33712N/US,0.5047539278336971,0.7166129350662231
+TR016,Office furniture cabinets,3,Institutional furniture,337127/US,0.3731811365066942,0.7074623107910156
+TR017,Purchase of laptops for staff,1,"Other computer related services, including facilities management",54151A/US,0.0787119075430328,0.45566755533218384
+TR017,Purchase of laptops for staff,2,Machine shops,332710/US,0.3192628486960383,0.3947985768318176
+TR017,Purchase of laptops for staff,3,Surgical appliance and supplies,339113/US,0.1850833337259997,0.3930017352104187
+TR018,Petrol for company cars,1,"Gasoline, fuels, and by-products of petroleum refining",324110/US,0.9171408720145141,0.5738213062286377
+TR018,Petrol for company cars,2,Petroleum and petroleum products,424700/US,0.1122533011015201,0.5695779323577881
+TR018,Petrol for company cars,3,Gasoline stations,447000/US,0.2731114726400957,0.5632530450820923
+TR019,Printer toner cartridges,1,Ink and ink cartridges,325910/US,0.5246730655216157,0.6978518962860107
+TR019,Printer toner cartridges,2,Printing support,323120/US,0.2624855910844411,0.5189173221588135
+TR019,Printer toner cartridges,3,Printed circuit and electronic assembly,334418/US,0.1068513033991329,0.35301610827445984
+TR020,Waste collection services,1,Waste management and remediation,562000/US,1.281715232063902,0.6494370698928833
+TR020,Waste collection services,2,Funerary services,812200/US,0.05144525925062495,0.43867844343185425
+TR020,Waste collection services,3,Warehousing,493000/US,0.3054109286435125,0.40702009201049805
+TR021,Professional legal consulting,1,Legal services,541100/US,0.05162779126855684,0.628217339515686
+TR021,Professional legal consulting,2,Management consulting,541610/US,0.0771801688687482,0.6219527721405029
+TR021,Professional legal consulting,3,Environmental and other technical consulting services,5416A0/US,0.09608284931860891,0.47203850746154785
+TR022,Data storage cloud services,1,Data processing and hosting,518200/US,0.09535753639974179,0.5762966275215149
+TR022,Data storage cloud services,2,Computer storage device readers,334112/US,0.07749737863341723,0.42781388759613037
+TR022,Data storage cloud services,3,Storage batteries,335911/US,0.6711997207899264,0.38228321075439453
+TR023,Office stationery supplies,1,Stationery,322230/US,0.7339981257944387,0.7110958099365234
+TR023,Office stationery supplies,2,Office supplies (not paper),339940/US,0.3689476981276405,0.6698335409164429
+TR023,Office stationery supplies,3,Professional and commercial equipment and supplies,423400/US,0.08680406876950161,0.5496422648429871
+TR024,Business travel by airplane,1,Aircraft,336411/US,0.1845409816637458,0.5152198076248169
+TR024,Business travel by airplane,2,Passenger ground transport,485000/US,0.5638192180023799,0.4800907373428345
+TR024,Business travel by airplane,3,Air transport,481000/US,0.760363267004879,0.4763718843460083
+TR025,Maintenance of office equipment,1,Electronic  equipment repair and maintenance,811200/US,0.1018830106499166,0.6992243528366089
+TR025,Maintenance of office equipment,2,Material handling equipment,333920/US,0.3894726382195938,0.5843908786773682
+TR025,Maintenance of office equipment,3,"Machinery, equipment, and supplies",423800/US,0.1527580632393734,0.555885910987854
