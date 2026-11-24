@@ -1,0 +1,4 @@
+Method,Top-1 Accuracy,Top-3 Accuracy
+Fuzzy,0.08,0.12
+TF-IDF,0.36,0.44
+Semantic,0.6,0.72
