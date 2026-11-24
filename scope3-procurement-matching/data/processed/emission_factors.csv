@@ -1,0 +1,403 @@
+ID,emission_factor,Name,Code,Location,Category,Unit,indicator,factor_unit
+1111A0/US,1.47506458825563,"Fresh soybeans, canola, flaxseeds, and other oilseeds",1111A0,US,"11: Agriculture, Forestry, Fishing and Hunting/1111: Oilseed and Grain Farming",USD,Greenhouse Gases,kg CO2e per USD of sector output
+1111B0/US,3.722832904333555,"Fresh wheat, corn, rice, and other grains",1111B0,US,"11: Agriculture, Forestry, Fishing and Hunting/1111: Oilseed and Grain Farming",USD,Greenhouse Gases,kg CO2e per USD of sector output
+111200/US,1.792857280564077,"Fresh vegetables, melons, and potatoes",111200,US,"11: Agriculture, Forestry, Fishing and Hunting/1112: Vegetable and Melon Farming",USD,Greenhouse Gases,kg CO2e per USD of sector output
+111300/US,0.8993545898957892,Fresh fruits and tree nuts,111300,US,"11: Agriculture, Forestry, Fishing and Hunting/1113: Fruit and Tree Nut Farming",USD,Greenhouse Gases,kg CO2e per USD of sector output
+111400/US,1.185348960020039,"Greenhouse crops, mushrooms, nurseries, and flowers",111400,US,"11: Agriculture, Forestry, Fishing and Hunting/1114: Greenhouse, Nursery, and Floriculture Production",USD,Greenhouse Gases,kg CO2e per USD of sector output
+111900/US,2.294221649559021,"Tobacco, cotton, sugarcane, peanuts, sugar beets, herbs and spices, and other crops",111900,US,"11: Agriculture, Forestry, Fishing and Hunting/1119: Other Crop Farming",USD,Greenhouse Gases,kg CO2e per USD of sector output
+112120/US,3.31313763692036,Dairies,112120,US,"11: Agriculture, Forestry, Fishing and Hunting/1121: Cattle Ranching and Farming",USD,Greenhouse Gases,kg CO2e per USD of sector output
+1121A0/US,3.95561559954357,Cattle ranches and feedlots,1121A0,US,"11: Agriculture, Forestry, Fishing and Hunting/1121: Cattle Ranching and Farming",USD,Greenhouse Gases,kg CO2e per USD of sector output
+112300/US,1.075826765441325,Poultry farms,112300,US,"11: Agriculture, Forestry, Fishing and Hunting/1123: Poultry and Egg Production",USD,Greenhouse Gases,kg CO2e per USD of sector output
+112A00/US,1.840515604887979,Animal farms and aquaculture ponds (except cattle and poultry),112A00,US,"11: Agriculture, Forestry, Fishing and Hunting/1129: Other Animal Production",USD,Greenhouse Gases,kg CO2e per USD of sector output
+113000/US,0.3411701179318647,Timber and raw forest products,113000,US,"11: Agriculture, Forestry, Fishing and Hunting/1131: Timber Tract Operations",USD,Greenhouse Gases,kg CO2e per USD of sector output
+114000/US,0.2143490036970762,Wild-caught fish and game,114000,US,"11: Agriculture, Forestry, Fishing and Hunting/1141: Fishing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+115000/US,0.4529131016935156,Agriculture and forestry support,115000,US,"11: Agriculture, Forestry, Fishing and Hunting/1151: Support Activities for Crop Production",USD,Greenhouse Gases,kg CO2e per USD of sector output
+211000/US,0.8358351103378575,Unrefined oil and gas,211000,US,"21: Mining, Quarrying, and Oil and Gas Extraction/2111: Oil and Gas Extraction",USD,Greenhouse Gases,kg CO2e per USD of sector output
+212100/US,2.189889632851145,Coal,212100,US,"21: Mining, Quarrying, and Oil and Gas Extraction/2121: Coal Mining",USD,Greenhouse Gases,kg CO2e per USD of sector output
+212230/US,0.493800329654601,"Copper, nickel, lead, and zinc",212230,US,"21: Mining, Quarrying, and Oil and Gas Extraction/2122: Metal Ore Mining",USD,Greenhouse Gases,kg CO2e per USD of sector output
+2122A0/US,1.026681950791458,"Iron, gold, silver, and other metal ores",2122A0,US,"21: Mining, Quarrying, and Oil and Gas Extraction/2122: Metal Ore Mining",USD,Greenhouse Gases,kg CO2e per USD of sector output
+212310/US,0.3727838241413211,Dimensional stone,212310,US,"21: Mining, Quarrying, and Oil and Gas Extraction/2123: Nonmetallic Mineral Mining and Quarrying",USD,Greenhouse Gases,kg CO2e per USD of sector output
+2123A0/US,0.4197031711110281,"Sand, gravel, clay, phosphate, other nonmetallic minerals",2123A0,US,"21: Mining, Quarrying, and Oil and Gas Extraction/2123: Nonmetallic Mineral Mining and Quarrying",USD,Greenhouse Gases,kg CO2e per USD of sector output
+213111/US,0.3700629934875859,Well drilling,213111,US,"21: Mining, Quarrying, and Oil and Gas Extraction/2131: Support Activities for Mining",USD,Greenhouse Gases,kg CO2e per USD of sector output
+21311A/US,0.4440460576495168,Other support activities for mining,21311A,US,"21: Mining, Quarrying, and Oil and Gas Extraction/2131: Support Activities for Mining",USD,Greenhouse Gases,kg CO2e per USD of sector output
+221100/US,3.441131169656384,Electricity,221100,US,"22: Utilities/2211: Electric Power Generation, Transmission and Distribution",USD,Greenhouse Gases,kg CO2e per USD of sector output
+221200/US,0.7826522559458505,Natural gas,221200,US,22: Utilities/2212: Natural Gas Distribution,USD,Greenhouse Gases,kg CO2e per USD of sector output
+221300/US,0.7040561675985595,Drinking water and wastewater treatment,221300,US,"22: Utilities/2213: Water, Sewage and Other Systems",USD,Greenhouse Gases,kg CO2e per USD of sector output
+233210/US,0.2676191833007086,Health care buildings,233210,US,23: Construction/2362: Nonresidential Building Construction,USD,Greenhouse Gases,kg CO2e per USD of sector output
+233262/US,0.286646698356087,Schools and vocational buildings,233262,US,23: Construction/2362: Nonresidential Building Construction,USD,Greenhouse Gases,kg CO2e per USD of sector output
+230301/US,0.3161726294135621,Nonresidential building repair and maintanence,230301,US,23: Construction/2362: Nonresidential Building Construction,USD,Greenhouse Gases,kg CO2e per USD of sector output
+230302/US,0.2818771083634583,Residential building repair and maintanence,230302,US,23: Construction/2361: Residential Building Construction,USD,Greenhouse Gases,kg CO2e per USD of sector output
+2332A0/US,0.3257581920141063,"Commercial structures, including farm structures",2332A0,US,23: Construction/2362: Nonresidential Building Construction,USD,Greenhouse Gases,kg CO2e per USD of sector output
+233412/US,0.2748008717300612,Multifamily homes,233412,US,23: Construction/2361: Residential Building Construction,USD,Greenhouse Gases,kg CO2e per USD of sector output
+2334A0/US,0.3377666238846886,Other residential structures,2334A0,US,23: Construction/2361: Residential Building Construction,USD,Greenhouse Gases,kg CO2e per USD of sector output
+233230/US,0.3195115596586025,Manufacturing buildings,233230,US,23: Construction/2362: Nonresidential Building Construction,USD,Greenhouse Gases,kg CO2e per USD of sector output
+2332D0/US,0.2708648215503984,Other nonresidential structures,2332D0,US,23: Construction/2362: Nonresidential Building Construction,USD,Greenhouse Gases,kg CO2e per USD of sector output
+233240/US,0.337526471036412,Utilities buildings and infrastructure,233240,US,23: Construction/2371: Utility System Construction,USD,Greenhouse Gases,kg CO2e per USD of sector output
+233411/US,0.2815828221529956,Single-family homes,233411,US,23: Construction/2361: Residential Building Construction,USD,Greenhouse Gases,kg CO2e per USD of sector output
+2332C0/US,0.3354437551276153,"Highways, streets, and bridges",2332C0,US,"23: Construction/2373: Highway, Street, and Bridge Construction",USD,Greenhouse Gases,kg CO2e per USD of sector output
+321100/US,0.3756790099682002,Lumber and treated lumber,321100,US,31-33: Manufacturing/3211: Sawmills and Wood Preservation,USD,Greenhouse Gases,kg CO2e per USD of sector output
+321200/US,0.5493186768099384,Plywood and veneer,321200,US,"31-33: Manufacturing/3212: Veneer, Plywood, and Engineered Wood Product Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+321910/US,0.2999132838722228,"Wooden windows, door, and flooring",321910,US,31-33: Manufacturing/3219: Other Wood Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+3219A0/US,0.3473969812895256,"Veneer, plywood, and engineered wood",3219A0,US,31-33: Manufacturing/3219: Other Wood Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+327100/US,0.8175902221327326,Clay and ceramic products,327100,US,31-33: Manufacturing/3271: Clay Product and Refractory Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+327200/US,1.106310696041274,Glass and glass products,327200,US,31-33: Manufacturing/3272: Glass and Glass Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+327310/US,6.988305852431644,Cement,327310,US,31-33: Manufacturing/3273: Cement and Concrete Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+327320/US,1.404104579507345,Ready-mix concrete,327320,US,31-33: Manufacturing/3273: Cement and Concrete Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+327330/US,0.7031557145276971,"Concrete pipe, bricks, and blocks",327330,US,31-33: Manufacturing/3273: Cement and Concrete Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+327390/US,0.5520593684298417,Other concrete products,327390,US,31-33: Manufacturing/3273: Cement and Concrete Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+327400/US,3.497836944177933,Lime and gypsum products,327400,US,31-33: Manufacturing/3274: Lime and Gypsum Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+327910/US,0.2412780529827803,Abrasive products,327910,US,31-33: Manufacturing/3279: Other Nonmetallic Mineral Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+327991/US,0.3141942702218868,Cut stone and stone products,327991,US,31-33: Manufacturing/3279: Other Nonmetallic Mineral Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+327992/US,0.6114679756287623,Ground or treated minerals and earth,327992,US,31-33: Manufacturing/3279: Other Nonmetallic Mineral Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+327993/US,0.7015917980673445,Mineral wool,327993,US,31-33: Manufacturing/3279: Other Nonmetallic Mineral Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+327999/US,1.124235538647389,Other nonmetallic mineral products,327999,US,31-33: Manufacturing/3279: Other Nonmetallic Mineral Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+331110/US,1.615463236674653,"Primary iron, steel, and ferroalloy products",331110,US,31-33: Manufacturing/3311: Iron and Steel Mills and Ferroalloy Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+331200/US,0.7499299509235408,Secondary steel products,331200,US,31-33: Manufacturing/3312: Steel Product Manufacturing from Purchased Steel,USD,Greenhouse Gases,kg CO2e per USD of sector output
+331313/US,2.610529159823668,Primary aluminum,331313,US,31-33: Manufacturing/3313: Alumina and Aluminum Production and Processing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+33131B/US,1.215123237807115,Secondary aluminum,33131B,US,31-33: Manufacturing/3313: Alumina and Aluminum Production and Processing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+331410/US,0.7981971708497867,"Copper, gold and silver concentrates",331410,US,31-33: Manufacturing/3314: Nonferrous Metal (except Aluminum) Production and Processing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+331420/US,0.925132738204513,Secondary copper products,331420,US,31-33: Manufacturing/3314: Nonferrous Metal (except Aluminum) Production and Processing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+331490/US,0.862430001803122,Other secondary nonferrous metal products,331490,US,31-33: Manufacturing/3314: Nonferrous Metal (except Aluminum) Production and Processing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+331510/US,0.5916706015682394,Cast iron and steel,331510,US,31-33: Manufacturing/3315: Foundries,USD,Greenhouse Gases,kg CO2e per USD of sector output
+331520/US,0.6932059220587278,Nonferrous metal casts,331520,US,31-33: Manufacturing/3315: Foundries,USD,Greenhouse Gases,kg CO2e per USD of sector output
+332114/US,0.8265176878601248,Custom metal rolls,332114,US,31-33: Manufacturing/3321: Forging and Stamping,USD,Greenhouse Gases,kg CO2e per USD of sector output
+33211A/US,0.6816877674017535,"All other forging, stamping, and sintering",33211A,US,31-33: Manufacturing/3321: Forging and Stamping,USD,Greenhouse Gases,kg CO2e per USD of sector output
+332119/US,0.5428634841101208,"Lids, jars, bottle caps, other metal closures and crowns",332119,US,31-33: Manufacturing/3321: Forging and Stamping,USD,Greenhouse Gases,kg CO2e per USD of sector output
+332200/US,0.4209128267054371,Cutlery and handtools,332200,US,31-33: Manufacturing/3322: Cutlery and Handtool Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+332310/US,0.5780920912122667,Metal structural products,332310,US,31-33: Manufacturing/3323: Architectural and Structural Metals Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+332320/US,0.524926320257773,"Metal windows, doors, and architectural products",332320,US,31-33: Manufacturing/3323: Architectural and Structural Metals Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+332410/US,0.4454958076011183,Power boilers and heat exchangers,332410,US,"31-33: Manufacturing/3324: Boiler, Tank, and Shipping Container Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+332420/US,0.4915909969301914,Heavy gauge metal tanks,332420,US,"31-33: Manufacturing/3324: Boiler, Tank, and Shipping Container Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+332430/US,0.6305552066480999,"Light gauge metal cans, boxes, and containers",332430,US,"31-33: Manufacturing/3324: Boiler, Tank, and Shipping Container Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+332500/US,0.4366977996519167,"Metal hinges, keys, lock, and other hardware",332500,US,31-33: Manufacturing/3325: Hardware Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+332600/US,0.4597892279563049,Springs and wires,332600,US,31-33: Manufacturing/3326: Spring and Wire Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+332710/US,0.3192628486960383,Machine shops,332710,US,"31-33: Manufacturing/3327: Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+332720/US,0.428257054486998,"Screws, nuts, and bolts",332720,US,"31-33: Manufacturing/3327: Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+332800/US,0.4679963756672764,"Metal coatings, engravings, and heat treatments",332800,US,"31-33: Manufacturing/3328: Coating, Engraving, Heat Treating, and Allied Activities",USD,Greenhouse Gases,kg CO2e per USD of sector output
+332913/US,0.4179792056490195,"Metal plumbing drains, faucets, valves, and other fittings",332913,US,31-33: Manufacturing/3329: Other Fabricated Metal Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+33291A/US,0.2991102849360345,Valve and fittings (except for plumbing),33291A,US,31-33: Manufacturing/3329: Other Fabricated Metal Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+332991/US,0.303048718986566,Ball and roller bearings,332991,US,31-33: Manufacturing/3329: Other Fabricated Metal Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+332996/US,0.424269127161808,Fabricated pipe and pipe fittings,332996,US,31-33: Manufacturing/3329: Other Fabricated Metal Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+33299A/US,0.2819404381477501,"Ammunition, arms, ordnance, and related accessories",33299A,US,31-33: Manufacturing/3329: Other Fabricated Metal Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+332999/US,0.5161593835787663,Misc. fabricated metal products,332999,US,31-33: Manufacturing/3329: Other Fabricated Metal Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+333111/US,0.3598302243008629,Farm machinery and equipment,333111,US,"31-33: Manufacturing/3331: Agriculture, Construction, and Mining Machinery Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+333112/US,0.2819322556403385,Lawn and garden equipment,333112,US,"31-33: Manufacturing/3331: Agriculture, Construction, and Mining Machinery Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+333120/US,0.3440264221117534,Construction machinery,333120,US,"31-33: Manufacturing/3331: Agriculture, Construction, and Mining Machinery Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+333130/US,0.403854531001118,Mining and oil/gas field machinery,333130,US,"31-33: Manufacturing/3331: Agriculture, Construction, and Mining Machinery Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+333242/US,0.2045298752652031,Semiconductor machinery,333242,US,31-33: Manufacturing/3332: Industrial Machinery Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+33329A/US,0.2887940056415014,"Machinery for the paper, textile, food or other industries (except semiconductor machinery)",33329A,US,31-33: Manufacturing/3332: Industrial Machinery Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+333314/US,0.231975821925404,Optical instruments and lenses,333314,US,31-33: Manufacturing/3333: Commercial and Service Industry Machinery Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+333316/US,0.2188083130785319,Photography and photocopying equipment,333316,US,31-33: Manufacturing/3333: Commercial and Service Industry Machinery Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+333318/US,0.3245823780783534,Other commercial and service industry machinery,333318,US,31-33: Manufacturing/3333: Commercial and Service Industry Machinery Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+333414/US,0.3876903776642486,Heating equipment other than warm air furnaces,333414,US,"31-33: Manufacturing/3334: Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+333415/US,0.4451121197557807,"Air conditioning, refrigeration, and warm air heating equipment",333415,US,"31-33: Manufacturing/3334: Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+333413/US,0.3581880368986956,Air purification and ventilation equipment,333413,US,"31-33: Manufacturing/3334: Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+333511/US,0.3265716283389963,Industrial molds,333511,US,31-33: Manufacturing/3335: Metalworking Machinery Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+333514/US,0.2915718252807052,"Special tools, dies, jigs, and fixtures",333514,US,31-33: Manufacturing/3335: Metalworking Machinery Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+333517/US,0.2574540612363938,Metal cutting and forming machine tools,333517,US,31-33: Manufacturing/3335: Metalworking Machinery Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+33351B/US,0.2856075417367565,"Cutting and machine tool accessory, rolling mill, and other metalworking machines",33351B,US,31-33: Manufacturing/3335: Metalworking Machinery Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+333611/US,0.2688369750488627,Turbines and turbine generator sets,333611,US,"31-33: Manufacturing/3336: Engine, Turbine, and Power Transmission Equipment Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+333612/US,0.2539064316819026,"Speed changers, industrial high-speed drives, and gears",333612,US,"31-33: Manufacturing/3336: Engine, Turbine, and Power Transmission Equipment Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+333613/US,0.3265405511276459,Mechanical power transmission equipment,333613,US,"31-33: Manufacturing/3336: Engine, Turbine, and Power Transmission Equipment Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+333618/US,0.3992032352969316,Other engine equipment,333618,US,"31-33: Manufacturing/3336: Engine, Turbine, and Power Transmission Equipment Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+333912/US,0.3031641937186897,Air and gas compressors,333912,US,31-33: Manufacturing/3339: Other General Purpose Machinery Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+333914/US,0.2898920660652641,Pumps and pumping equipment,333914,US,31-33: Manufacturing/3339: Other General Purpose Machinery Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+333920/US,0.3894726382195938,Material handling equipment,333920,US,31-33: Manufacturing/3339: Other General Purpose Machinery Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+333991/US,0.3064903145811025,Power tools,333991,US,31-33: Manufacturing/3339: Other General Purpose Machinery Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+333993/US,0.1854639268643942,Packaging machinery,333993,US,31-33: Manufacturing/3339: Other General Purpose Machinery Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+333994/US,0.2792444891860499,Industrial process furnaces and ovens,333994,US,31-33: Manufacturing/3339: Other General Purpose Machinery Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+33399A/US,0.3442558855919666,"Welding and Soldering Equipment, Scales and Balances, and other general purpose machinery",33399A,US,31-33: Manufacturing/3339: Other General Purpose Machinery Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+33399B/US,0.2996822276107972,"Hydraulic pumps, motors, cylinders and actuators",33399B,US,31-33: Manufacturing/3339: Other General Purpose Machinery Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+334111/US,0.04998511892032928,Computers,334111,US,31-33: Manufacturing/3341: Computer and Peripheral Equipment Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+334112/US,0.07749737863341723,Computer storage device readers,334112,US,31-33: Manufacturing/3341: Computer and Peripheral Equipment Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+334118/US,0.1753824825609228,Computer terminals and other computer peripheral equipment,334118,US,31-33: Manufacturing/3341: Computer and Peripheral Equipment Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+334210/US,0.1037070760480744,Telephones,334210,US,31-33: Manufacturing/3342: Communications Equipment Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+334220/US,0.09778656816539127,Wireless communications,334220,US,31-33: Manufacturing/3342: Communications Equipment Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+334290/US,0.09012098596683783,Communications equipment,334290,US,31-33: Manufacturing/3342: Communications Equipment Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+334413/US,0.2307881768392851,Semiconductors,334413,US,31-33: Manufacturing/3344: Semiconductor and Other Electronic Component Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+334418/US,0.1068513033991329,Printed circuit and electronic assembly,334418,US,31-33: Manufacturing/3344: Semiconductor and Other Electronic Component Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+33441A/US,0.138158756971462,"Electronic capacitors, resistors, coils, transformers, connectors and other components (except  semiconductors and printed circuit assemblies)",33441A,US,31-33: Manufacturing/3344: Semiconductor and Other Electronic Component Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+334510/US,0.1444237905602317,Electromedical appartuses,334510,US,"31-33: Manufacturing/3345: Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+334511/US,0.105019835990918,Navigation instruments,334511,US,"31-33: Manufacturing/3345: Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+334512/US,0.08909019757069521,Automatic controls for HVAC and refrigeration equipment,334512,US,"31-33: Manufacturing/3345: Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+334513/US,0.08101170168568152,Industrial process variable instruments,334513,US,"31-33: Manufacturing/3345: Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+334514/US,0.1296886015330359,Fluid meters and counting devices,334514,US,"31-33: Manufacturing/3345: Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+334515/US,0.09358862402623397,Signal testing instruments,334515,US,"31-33: Manufacturing/3345: Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+334516/US,0.1300691092773578,Analytical laboratory instruments,334516,US,"31-33: Manufacturing/3345: Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+334517/US,0.1280970539953269,Irradiation apparatuses,334517,US,"31-33: Manufacturing/3345: Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+33451A/US,0.1152520853322771,"Watches, clocks, and other measuring and controlling devices",33451A,US,"31-33: Manufacturing/3345: Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+334300/US,0.101258045280035,Audio and video equipment,334300,US,31-33: Manufacturing/3343: Audio and Video Equipment Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+334610/US,0.05958509291355334,"External hard drives, CDs, other storage media",334610,US,31-33: Manufacturing/3346: Manufacturing and Reproducing Magnetic and Optical Media,USD,Greenhouse Gases,kg CO2e per USD of sector output
+335110/US,0.1883909966531386,Light bulbs,335110,US,31-33: Manufacturing/3351: Electric Lighting Equipment Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+335120/US,0.3103272357502713,Light fixtures,335120,US,31-33: Manufacturing/3351: Electric Lighting Equipment Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+335210/US,0.2162963924760672,Small electrical appliances,335210,US,31-33: Manufacturing/3352: Household Appliance Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+335220/US,0.3168064100037465,Major home appliances,335220,US,31-33: Manufacturing/3352: Household Appliance Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+335311/US,0.3370928005030754,Specialty transformers,335311,US,31-33: Manufacturing/3353: Electrical Equipment Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+335312/US,0.2729621215192941,Motors and generators,335312,US,31-33: Manufacturing/3353: Electrical Equipment Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+335313/US,0.3396669092127156,Switchgear and switchboards,335313,US,31-33: Manufacturing/3353: Electrical Equipment Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+335314/US,0.2103064958829341,Relay and industrial controls,335314,US,31-33: Manufacturing/3353: Electrical Equipment Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+335911/US,0.6711997207899264,Storage batteries,335911,US,31-33: Manufacturing/3359: Other Electrical Equipment and Component Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+335912/US,0.195967382352196,Primary batteries,335912,US,31-33: Manufacturing/3359: Other Electrical Equipment and Component Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+335920/US,0.5774092313484936,Communication and energy wire and cable,335920,US,31-33: Manufacturing/3359: Other Electrical Equipment and Component Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+335930/US,0.2771427852928021,Wiring devices,335930,US,31-33: Manufacturing/3359: Other Electrical Equipment and Component Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+335991/US,0.5252675414604204,Carbon and graphite products,335991,US,31-33: Manufacturing/3359: Other Electrical Equipment and Component Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+335999/US,0.2296242889487997,Other miscellaneous electrical equipment and components,335999,US,31-33: Manufacturing/3359: Other Electrical Equipment and Component Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336111/US,0.3645565009718055,Automobiles,336111,US,31-33: Manufacturing/3361: Motor Vehicle Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336112/US,0.3412125414787051,"Pickup trucks, vans, and SUVs",336112,US,31-33: Manufacturing/3361: Motor Vehicle Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336120/US,0.3192487966316057,Heavy duty trucks,336120,US,31-33: Manufacturing/3361: Motor Vehicle Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336211/US,0.4068473924252921,Vehicle bodies,336211,US,31-33: Manufacturing/3362: Motor Vehicle Body and Trailer Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336212/US,0.4381304102405899,Truck trailers,336212,US,31-33: Manufacturing/3362: Motor Vehicle Body and Trailer Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336213/US,0.1432738661838002,Motor homes,336213,US,31-33: Manufacturing/3362: Motor Vehicle Body and Trailer Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336214/US,0.322872942262494,Travel trailer and campers,336214,US,31-33: Manufacturing/3362: Motor Vehicle Body and Trailer Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336310/US,0.3517874794070694,Vehicle engines and engine parts,336310,US,31-33: Manufacturing/3363: Motor Vehicle Parts Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336320/US,0.3262122585904665,Vehicle electrical and electronic equipment,336320,US,31-33: Manufacturing/3363: Motor Vehicle Parts Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336350/US,0.3479274347865995,Transmission and power train parts,336350,US,31-33: Manufacturing/3363: Motor Vehicle Parts Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336360/US,0.3646794937181613,Vehicle seating and interior trim (upholstery),336360,US,31-33: Manufacturing/3363: Motor Vehicle Parts Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336370/US,0.6473748015984149,Vehicle metal stamping,336370,US,31-33: Manufacturing/3363: Motor Vehicle Parts Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336390/US,0.3774572897468168,Other vehicle parts,336390,US,31-33: Manufacturing/3363: Motor Vehicle Parts Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+3363A0/US,0.4280596770936676,"Motor vehicle steering, suspension components (except spring), and brake systems",3363A0,US,31-33: Manufacturing/3363: Motor Vehicle Parts Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336411/US,0.1845409816637458,Aircraft,336411,US,31-33: Manufacturing/3364: Aerospace Product and Parts Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336412/US,0.1851051709141941,Aircraft engines and parts,336412,US,31-33: Manufacturing/3364: Aerospace Product and Parts Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336413/US,0.2036034982105373,Other aircraft parts,336413,US,31-33: Manufacturing/3364: Aerospace Product and Parts Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336414/US,0.1727320450300678,Guided missiles and space vehicles,336414,US,31-33: Manufacturing/3364: Aerospace Product and Parts Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+33641A/US,0.3431744712041196,Propulsion units and parts for space vehicles and guided missiles,33641A,US,31-33: Manufacturing/3364: Aerospace Product and Parts Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336500/US,0.5274985665649428,Railroad rolling stock,336500,US,31-33: Manufacturing/3365: Railroad Rolling Stock Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336611/US,0.2257645888249323,Ships and ship repair,336611,US,31-33: Manufacturing/3366: Ship and Boat Building,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336612/US,0.3549647629231849,Boats,336612,US,31-33: Manufacturing/3366: Ship and Boat Building,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336991/US,0.3552925381112212,"Motorcycle, bicycle, and parts",336991,US,31-33: Manufacturing/3369: Other Transportation Equipment Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336992/US,0.5216753137817666,Military armored vehicles and tanks,336992,US,31-33: Manufacturing/3369: Other Transportation Equipment Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+336999/US,0.3460424274914239,Other transportation equipment,336999,US,31-33: Manufacturing/3369: Other Transportation Equipment Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+337110/US,0.2721085354910415,Wood kitchen cabinets and countertops,337110,US,31-33: Manufacturing/3371: Household and Institutional Furniture and Kitchen Cabinet Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+337121/US,0.3552030543939145,Home furniture - upholstered,337121,US,31-33: Manufacturing/3371: Household and Institutional Furniture and Kitchen Cabinet Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+337122/US,0.29830921623541,"Home furniture - wood, nonupholstered",337122,US,31-33: Manufacturing/3371: Household and Institutional Furniture and Kitchen Cabinet Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+337127/US,0.3731811365066942,Institutional furniture,337127,US,31-33: Manufacturing/3371: Household and Institutional Furniture and Kitchen Cabinet Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+33712N/US,0.5047539278336971,"Home furniture - Cabinets and non-wood, nonupholstered",33712N,US,31-33: Manufacturing/3371: Household and Institutional Furniture and Kitchen Cabinet Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+337215/US,0.4395602210630132,Shelving and lockers,337215,US,31-33: Manufacturing/3372: Office Furniture (including Fixtures) Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+33721A/US,0.3376018706419759,Office furniture and custom architectural woodwork and millwork,33721A,US,31-33: Manufacturing/3372: Office Furniture (including Fixtures) Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+337900/US,0.416908714151849,"Mattresses, blinds and shades",337900,US,31-33: Manufacturing/3379: Other Furniture Related Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+339112/US,0.1768287071664019,Surgical and medical instruments,339112,US,31-33: Manufacturing/3391: Medical Equipment and Supplies Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+339113/US,0.1850833337259997,Surgical appliance and supplies,339113,US,31-33: Manufacturing/3391: Medical Equipment and Supplies Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+339114/US,0.2865740039776745,Dental equipment and supplies,339114,US,31-33: Manufacturing/3391: Medical Equipment and Supplies Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+339115/US,0.1884997653363336,Ophthalmic goods,339115,US,31-33: Manufacturing/3391: Medical Equipment and Supplies Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+339116/US,0.2140909499124883,Dental laboratories,339116,US,31-33: Manufacturing/3391: Medical Equipment and Supplies Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+339910/US,0.2212250575191908,Jewelry and silverware,339910,US,31-33: Manufacturing/3399: Other Miscellaneous Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+339920/US,0.2987621845207945,Sporting and athletic goods,339920,US,31-33: Manufacturing/3399: Other Miscellaneous Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+339930/US,0.251281427791692,"Dolls, toys, and games",339930,US,31-33: Manufacturing/3399: Other Miscellaneous Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+339940/US,0.3689476981276405,Office supplies (not paper),339940,US,31-33: Manufacturing/3399: Other Miscellaneous Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+339950/US,0.3362299723882261,Signs,339950,US,31-33: Manufacturing/3399: Other Miscellaneous Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+339990/US,0.329822203333247,"Gaskets, seals, musical instruments, fasteners, brooms, brushes, mop and other misc. goods",339990,US,31-33: Manufacturing/3399: Other Miscellaneous Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+311111/US,0.8900293648377897,Dog and cat food,311111,US,31-33: Manufacturing/3111: Animal Food Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+311119/US,1.308506698562204,Other animal food,311119,US,31-33: Manufacturing/3111: Animal Food Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+311210/US,1.634457699876758,Flours and malts,311210,US,31-33: Manufacturing/3112: Grain and Oilseed Milling,USD,Greenhouse Gases,kg CO2e per USD of sector output
+311221/US,2.075395205620771,Corn products,311221,US,31-33: Manufacturing/3112: Grain and Oilseed Milling,USD,Greenhouse Gases,kg CO2e per USD of sector output
+311225/US,0.9535953136497786,"Refined vegetable, olive, and seed oils",311225,US,31-33: Manufacturing/3112: Grain and Oilseed Milling,USD,Greenhouse Gases,kg CO2e per USD of sector output
+311224/US,1.026953275910374,Vegetable oils and by-products,311224,US,31-33: Manufacturing/3112: Grain and Oilseed Milling,USD,Greenhouse Gases,kg CO2e per USD of sector output
+311230/US,0.9913291312288119,Breakfast cereals,311230,US,31-33: Manufacturing/3112: Grain and Oilseed Milling,USD,Greenhouse Gases,kg CO2e per USD of sector output
+311300/US,0.8815616960541742,"Sugar, candy, and chocolate",311300,US,31-33: Manufacturing/3113: Sugar and Confectionery Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+311410/US,0.956363825844051,Frozen food,311410,US,31-33: Manufacturing/3114: Fruit and Vegetable Preserving and Specialty Food Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+311420/US,0.7754407092367093,Fruit and vegetable preservation,311420,US,31-33: Manufacturing/3114: Fruit and Vegetable Preserving and Specialty Food Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+311513/US,1.703365092485016,Cheese,311513,US,31-33: Manufacturing/3115: Dairy Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+311514/US,1.308213552791337,"Dry, condensed, and evaporated dairy",311514,US,31-33: Manufacturing/3115: Dairy Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+31151A/US,1.588428422751911,Fluid milk and butter,31151A,US,31-33: Manufacturing/3115: Dairy Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+311520/US,0.8984019685255582,Ice cream and frozen desserts,311520,US,31-33: Manufacturing/3115: Dairy Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+311615/US,0.7625968404175815,Packaged poultry,311615,US,31-33: Manufacturing/3116: Animal Slaughtering and Processing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+31161A/US,2.095292900252675,Packaged meat (except poultry),31161A,US,31-33: Manufacturing/3116: Animal Slaughtering and Processing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+311700/US,0.876120318384131,Seafood,311700,US,31-33: Manufacturing/3117: Seafood Product Preparation and Packaging,USD,Greenhouse Gases,kg CO2e per USD of sector output
+311810/US,0.5395819542056073,Bread and other baked goods,311810,US,31-33: Manufacturing/3118: Bakeries and Tortilla Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+3118A0/US,0.7337958582415223,"Cookies, crackers, pastas, and tortillas",3118A0,US,31-33: Manufacturing/3118: Bakeries and Tortilla Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+311910/US,0.674785312869377,Snack foods,311910,US,31-33: Manufacturing/3119: Other Food Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+311920/US,0.636828897777406,Coffee and tea,311920,US,31-33: Manufacturing/3119: Other Food Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+311930/US,0.3806961162763766,Flavored drink concentrates,311930,US,31-33: Manufacturing/3119: Other Food Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+311940/US,0.6564600176883019,Seasonings and dressings,311940,US,31-33: Manufacturing/3119: Other Food Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+311990/US,1.064164525284226,All other foods,311990,US,31-33: Manufacturing/3119: Other Food Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+312110/US,0.4613620690549866,"Soft drinks, bottled water, and ice",312110,US,31-33: Manufacturing/3121: Beverage Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+312120/US,0.551337736994288,Breweries and beer,312120,US,31-33: Manufacturing/3121: Beverage Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+312130/US,0.3448261468180901,Wineries and wine,312130,US,31-33: Manufacturing/3121: Beverage Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+312140/US,0.5936622182350333,Distilleries and spirits,312140,US,31-33: Manufacturing/3121: Beverage Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+312200/US,0.1721138573853343,Tobacco products,312200,US,31-33: Manufacturing/3122: Tobacco Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+313100/US,1.065172816228133,"Fiber, yarn, and thread",313100,US,"31-33: Manufacturing/3131: Fiber, Yarn, and Thread Mills",USD,Greenhouse Gases,kg CO2e per USD of sector output
+313200/US,0.7055104381150507,Fabric,313200,US,31-33: Manufacturing/3132: Fabric Mills,USD,Greenhouse Gases,kg CO2e per USD of sector output
+313300/US,0.6343695318884816,Finished and coated fabric,313300,US,31-33: Manufacturing/3133: Textile and Fabric Finishing and Fabric Coating Mills,USD,Greenhouse Gases,kg CO2e per USD of sector output
+314110/US,0.5951606465032976,Carpets and rugs,314110,US,31-33: Manufacturing/3141: Textile Furnishings Mills,USD,Greenhouse Gases,kg CO2e per USD of sector output
+314120/US,0.436068733997569,Curtains and linens,314120,US,31-33: Manufacturing/3141: Textile Furnishings Mills,USD,Greenhouse Gases,kg CO2e per USD of sector output
+314900/US,0.4374532780599757,Other textiles,314900,US,31-33: Manufacturing/3149: Other Textile Product Mills,USD,Greenhouse Gases,kg CO2e per USD of sector output
+315000/US,0.1398179757287818,Clothing,315000,US,31-33: Manufacturing/3151: Apparel Knitting Mills,USD,Greenhouse Gases,kg CO2e per USD of sector output
+316000/US,0.4831247465700025,Leather,316000,US,31-33: Manufacturing/3161: Leather and Hide Tanning and Finishing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+322110/US,1.457676180617631,Wood pulp,322110,US,"31-33: Manufacturing/3221: Pulp, Paper, and Paperboard Mills",USD,Greenhouse Gases,kg CO2e per USD of sector output
+322120/US,1.245452532734796,Paper,322120,US,"31-33: Manufacturing/3221: Pulp, Paper, and Paperboard Mills",USD,Greenhouse Gases,kg CO2e per USD of sector output
+322130/US,1.679312401012547,Cardboard,322130,US,"31-33: Manufacturing/3221: Pulp, Paper, and Paperboard Mills",USD,Greenhouse Gases,kg CO2e per USD of sector output
+322210/US,0.7862260886867024,Cardboard containers,322210,US,31-33: Manufacturing/3222: Converted Paper Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+322220/US,0.5707763228578121,Paper bags and coated paper,322220,US,31-33: Manufacturing/3222: Converted Paper Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+322230/US,0.7339981257944387,Stationery,322230,US,31-33: Manufacturing/3222: Converted Paper Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+322291/US,0.8871783547926526,"Sanitary paper (tissues, napkins, diapers, etc.)",322291,US,31-33: Manufacturing/3222: Converted Paper Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+322299/US,0.6753098097846342,All other converted paper products,322299,US,31-33: Manufacturing/3222: Converted Paper Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+323110/US,0.3352372296594377,"Books, newspapers, magazines, and other print media",323110,US,31-33: Manufacturing/3231: Printing and Related Support Activities,USD,Greenhouse Gases,kg CO2e per USD of sector output
+323120/US,0.2624855910844411,Printing support,323120,US,31-33: Manufacturing/3231: Printing and Related Support Activities,USD,Greenhouse Gases,kg CO2e per USD of sector output
+324110/US,0.9171408720145141,"Gasoline, fuels, and by-products of petroleum refining",324110,US,31-33: Manufacturing/3241: Petroleum and Coal Products Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+324121/US,2.000762750581782,Asphalt pavement,324121,US,31-33: Manufacturing/3241: Petroleum and Coal Products Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+324122/US,1.080957640929243,Asphalt shingles,324122,US,31-33: Manufacturing/3241: Petroleum and Coal Products Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+324190/US,1.227470562458274,Other petroleum and coal products,324190,US,31-33: Manufacturing/3241: Petroleum and Coal Products Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+325110/US,1.90966537285243,Petrochemicals,325110,US,31-33: Manufacturing/3251: Basic Chemical Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+325120/US,2.516658506439538,Compressed Gases,325120,US,31-33: Manufacturing/3251: Basic Chemical Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+325130/US,0.6282140745589213,Synthetic dyes and pigments,325130,US,31-33: Manufacturing/3251: Basic Chemical Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+325180/US,1.820891508901417,Other basic inorganic chemicals,325180,US,31-33: Manufacturing/3251: Basic Chemical Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+325190/US,2.045786487021691,Other basic organic chemicals,325190,US,31-33: Manufacturing/3251: Basic Chemical Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+325211/US,1.615292607340901,Plastics,325211,US,"31-33: Manufacturing/3252: Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+3252A0/US,1.245656983587108,Synthetic rubber and artificial and synthetic fibers,3252A0,US,"31-33: Manufacturing/3252: Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+325411/US,0.2374657960550419,Medicinal and botanical ingredients,325411,US,31-33: Manufacturing/3254: Pharmaceutical and Medicine Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+325412/US,0.100056166822997,"Pharmaceutical products (pills, powders, solutions, etc.)",325412,US,31-33: Manufacturing/3254: Pharmaceutical and Medicine Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+325413/US,0.1958707212169338,"Blood sugar, pregnancy, and other diagnostic test kits",325413,US,31-33: Manufacturing/3254: Pharmaceutical and Medicine Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+325414/US,0.1757056813036509,Vaccines and other biological medical products,325414,US,31-33: Manufacturing/3254: Pharmaceutical and Medicine Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+325310/US,4.134417085533708,Fertilizers,325310,US,"31-33: Manufacturing/3253: Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+325320/US,1.007120599351309,Pesticides,325320,US,"31-33: Manufacturing/3253: Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+325510/US,0.5764486338497813,Paints and coatings,325510,US,"31-33: Manufacturing/3255: Paint, Coating, and Adhesive Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+325520/US,0.7332043585240402,Adhesives,325520,US,"31-33: Manufacturing/3255: Paint, Coating, and Adhesive Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+325610/US,0.6409808657400424,Soap and cleaning compounds,325610,US,"31-33: Manufacturing/3256: Soap, Cleaning Compound, and Toilet Preparation Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+325620/US,0.2970074566866176,Toiletries,325620,US,"31-33: Manufacturing/3256: Soap, Cleaning Compound, and Toilet Preparation Manufacturing",USD,Greenhouse Gases,kg CO2e per USD of sector output
+325910/US,0.5246730655216157,Ink and ink cartridges,325910,US,31-33: Manufacturing/3259: Other Chemical Product and Preparation Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+3259A0/US,0.7089005103601151,"Chemicals (except basic chemicals, agrichemicals, polymers, paints, pharmaceuticals,soaps, cleaning compounds)",3259A0,US,31-33: Manufacturing/3259: Other Chemical Product and Preparation Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+326110/US,0.7901848715797192,"Plastic bags, films, and sheets",326110,US,31-33: Manufacturing/3261: Plastics Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+326120/US,0.7218284190610661,"Plastic pipe, fittings, and sausage casings",326120,US,31-33: Manufacturing/3261: Plastics Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+326130/US,0.5968314421928061,Laminated plastic plates and shapes,326130,US,31-33: Manufacturing/3261: Plastics Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+326140/US,0.7994069421636584,Polystyrene foam products,326140,US,31-33: Manufacturing/3261: Plastics Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+326150/US,0.7497706911539488,Urethane and other foam products,326150,US,31-33: Manufacturing/3261: Plastics Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+326160/US,0.8146622070749369,Plastic bottles,326160,US,31-33: Manufacturing/3261: Plastics Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+326190/US,0.6176642666770634,Other plastic products,326190,US,31-33: Manufacturing/3261: Plastics Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+326210/US,0.6094825572295149,Rubber tires,326210,US,31-33: Manufacturing/3262: Rubber Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+326220/US,0.4465754855189692,Rubber and plastic belts and hoses,326220,US,31-33: Manufacturing/3262: Rubber Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+326290/US,0.5452781659565139,Other rubber products,326290,US,31-33: Manufacturing/3262: Rubber Product Manufacturing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+423100/US,0.1562140509010737,Motor vehicle and motor vehicle parts and supplies,423100,US,42: Wholesale Trade/4231: Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,USD,Greenhouse Gases,kg CO2e per USD of sector output
+423400/US,0.08680406876950161,Professional and commercial equipment and supplies,423400,US,42: Wholesale Trade/4234: Professional and Commercial Equipment and Supplies Merchant Wholesalers,USD,Greenhouse Gases,kg CO2e per USD of sector output
+423600/US,0.1177795406373108,Household appliances and electrical and electronic goods,423600,US,42: Wholesale Trade/4236: Household Appliances and Electrical and Electronic Goods Merchant Wholesalers,USD,Greenhouse Gases,kg CO2e per USD of sector output
+423800/US,0.1527580632393734,"Machinery, equipment, and supplies",423800,US,"42: Wholesale Trade/4238: Machinery, Equipment, and Supplies Merchant Wholesalers",USD,Greenhouse Gases,kg CO2e per USD of sector output
+423A00/US,0.1537326127339224,Other durable goods merchant wholesalers,423A00,US,42: Wholesale Trade/,USD,Greenhouse Gases,kg CO2e per USD of sector output
+424200/US,0.1246461149170367,Drugs and druggists sundries,424200,US,42: Wholesale Trade/4242: Drugs and Druggists Sundries Merchant Wholesalers,USD,Greenhouse Gases,kg CO2e per USD of sector output
+424400/US,0.1917228102491856,Grocery and related product wholesalers,424400,US,42: Wholesale Trade/4244: Grocery and Related Product Merchant Wholesalers,USD,Greenhouse Gases,kg CO2e per USD of sector output
+424700/US,0.1122533011015201,Petroleum and petroleum products,424700,US,42: Wholesale Trade/4247: Petroleum and Petroleum Products Merchant Wholesalers,USD,Greenhouse Gases,kg CO2e per USD of sector output
+424A00/US,0.1616728155615674,Other nondurable goods merchant wholesalers,424A00,US,42: Wholesale Trade/,USD,Greenhouse Gases,kg CO2e per USD of sector output
+425000/US,0.1129608325002551,Wholesale electronic markets and agents and brokers,425000,US,42: Wholesale Trade/4251: Wholesale Electronic Markets and Agents and Brokers,USD,Greenhouse Gases,kg CO2e per USD of sector output
+4200ID/US,0.0,Customs duties,4200ID,US,42: Wholesale Trade/,USD,Greenhouse Gases,kg CO2e per USD of sector output
+441000/US,0.1295720981939062,Vehicles and parts sales,441000,US,44-45: Retail Trade/4411: Automobile Dealers,USD,Greenhouse Gases,kg CO2e per USD of sector output
+445000/US,0.2292747174435403,Food and beverage stores,445000,US,44-45: Retail Trade/4451: Grocery Stores,USD,Greenhouse Gases,kg CO2e per USD of sector output
+452000/US,0.2011333520177264,General merchandise stores,452000,US,"44-45: Retail Trade/4523: General Merchandise Stores, including Warehouse Clubs and Supercenters",USD,Greenhouse Gases,kg CO2e per USD of sector output
+444000/US,0.1347041412631111,Building material and garden equipment and supplies dealers,444000,US,44-45: Retail Trade/4441: Building Material and Supplies Dealers,USD,Greenhouse Gases,kg CO2e per USD of sector output
+446000/US,0.1364237224279161,Health and personal care stores,446000,US,44-45: Retail Trade/4461: Health and Personal Care Stores,USD,Greenhouse Gases,kg CO2e per USD of sector output
+447000/US,0.2731114726400957,Gasoline stations,447000,US,44-45: Retail Trade/4471: Gasoline Stations,USD,Greenhouse Gases,kg CO2e per USD of sector output
+448000/US,0.1515411797386268,Clothing and clothing accessories stores,448000,US,44-45: Retail Trade/4481: Clothing Stores,USD,Greenhouse Gases,kg CO2e per USD of sector output
+454000/US,0.1073532812192394,Nonstore retailers,454000,US,44-45: Retail Trade/4541: Electronic Shopping and Mail-Order Houses,USD,Greenhouse Gases,kg CO2e per USD of sector output
+4B0000/US,0.1280820837890462,Other retail,4B0000,US,44-45: Retail Trade/,USD,Greenhouse Gases,kg CO2e per USD of sector output
+481000/US,0.760363267004879,Air transport,481000,US,48-49: Transportation and Warehousing/4811: Scheduled Air Transportation,USD,Greenhouse Gases,kg CO2e per USD of sector output
+482000/US,0.5616144656427602,Rail transport,482000,US,48-49: Transportation and Warehousing/4821: Rail Transportation,USD,Greenhouse Gases,kg CO2e per USD of sector output
+483000/US,0.9380433177447248,"Water transport (boats, ships, ferries)",483000,US,"48-49: Transportation and Warehousing/4831: Deep Sea, Coastal, and Great Lakes Water Transportation",USD,Greenhouse Gases,kg CO2e per USD of sector output
+484000/US,0.8606978976823281,Truck transport,484000,US,48-49: Transportation and Warehousing/4841: General Freight Trucking,USD,Greenhouse Gases,kg CO2e per USD of sector output
+485000/US,0.5638192180023799,Passenger ground transport,485000,US,48-49: Transportation and Warehousing/4859: Other Transit and Ground Passenger Transportation,USD,Greenhouse Gases,kg CO2e per USD of sector output
+486000/US,2.165237174845453,Pipeline transport,486000,US,48-49: Transportation and Warehousing/4869: Other Pipeline Transportation,USD,Greenhouse Gases,kg CO2e per USD of sector output
+48A000/US,0.2172012076115404,Scenic and sightseeing transportation and support activities for transportation,48A000,US,48-49: Transportation and Warehousing/,USD,Greenhouse Gases,kg CO2e per USD of sector output
+492000/US,0.4119031540936405,Couriers and messengers,492000,US,48-49: Transportation and Warehousing/4921: Couriers and Express Delivery Services,USD,Greenhouse Gases,kg CO2e per USD of sector output
+493000/US,0.3054109286435125,Warehousing,493000,US,48-49: Transportation and Warehousing/4931: Warehousing and Storage,USD,Greenhouse Gases,kg CO2e per USD of sector output
+511110/US,0.07726492044869818,Newspapers,511110,US,"51: Information/5111: Newspaper, Periodical, Book, and Directory Publishers",USD,Greenhouse Gases,kg CO2e per USD of sector output
+511120/US,0.08609922071704453,Magazines and journals,511120,US,"51: Information/5111: Newspaper, Periodical, Book, and Directory Publishers",USD,Greenhouse Gases,kg CO2e per USD of sector output
+511130/US,0.1224313551560481,Books,511130,US,"51: Information/5111: Newspaper, Periodical, Book, and Directory Publishers",USD,Greenhouse Gases,kg CO2e per USD of sector output
+5111A0/US,0.1013542858575281,"Directory, mailing list, and other publishers",5111A0,US,"51: Information/5111: Newspaper, Periodical, Book, and Directory Publishers",USD,Greenhouse Gases,kg CO2e per USD of sector output
+511200/US,0.0510508383887503,Software,511200,US,51: Information/5112: Software Publishers,USD,Greenhouse Gases,kg CO2e per USD of sector output
+512100/US,0.05402334307743237,Movies and film,512100,US,51: Information/5121: Motion Picture and Video Industries,USD,Greenhouse Gases,kg CO2e per USD of sector output
+512200/US,0.02813057910704108,Sound recording,512200,US,51: Information/5122: Sound Recording Industries,USD,Greenhouse Gases,kg CO2e per USD of sector output
+515100/US,0.08935929856718328,Radio and television,515100,US,51: Information/5151: Radio and Television Broadcasting,USD,Greenhouse Gases,kg CO2e per USD of sector output
+515200/US,0.109095441210092,Cable and subscription programming,515200,US,51: Information/5152: Cable and Other Subscription Programming,USD,Greenhouse Gases,kg CO2e per USD of sector output
+517110/US,0.09434947527643592,Telecommunications,517110,US,51: Information/5171: Wired Telecommunications Carriers,USD,Greenhouse Gases,kg CO2e per USD of sector output
+517210/US,0.1053216146516518,Wireless telecommunications,517210,US,51: Information/5172: Wireless Telecommunications Carriers (except Satellite),USD,Greenhouse Gases,kg CO2e per USD of sector output
+517A00/US,0.09197417340069387,"Satellite, telecommunications resellers, and all other telecommunications",517A00,US,51: Information/5179: Other Telecommunications,USD,Greenhouse Gases,kg CO2e per USD of sector output
+518200/US,0.09535753639974179,Data processing and hosting,518200,US,"51: Information/5182: Data Processing, Hosting, and Related Services",USD,Greenhouse Gases,kg CO2e per USD of sector output
+519130/US,0.07197064106196757,Internet publishing and broadcasting,519130,US,51: Information/5191: Other Information Services,USD,Greenhouse Gases,kg CO2e per USD of sector output
+5191A0/US,0.07349851025229039,"News syndicates, libraries, archives, Internet publishing and all other information services",5191A0,US,51: Information/5191: Other Information Services,USD,Greenhouse Gases,kg CO2e per USD of sector output
+522A00/US,0.08084475654976327,Nondepository credit intermediation and related activities,522A00,US,52: Finance and Insurance/5222: Nondepository Credit Intermediation,USD,Greenhouse Gases,kg CO2e per USD of sector output
+52A000/US,0.07986769079741704,Monetary authorities and depository credit intermediation,52A000,US,52: Finance and Insurance/5211: Monetary Authorities-Central Bank,USD,Greenhouse Gases,kg CO2e per USD of sector output
+523900/US,0.08073379316372432,"Investment advice, portfolio management, and other financial advising services",523900,US,52: Finance and Insurance/5239: Other Financial Investment Activities,USD,Greenhouse Gases,kg CO2e per USD of sector output
+523A00/US,0.04746224185897412,Securities and commodities brokerage and exchanges,523A00,US,52: Finance and Insurance/5231: Securities and Commodity Contracts Intermediation and Brokerage,USD,Greenhouse Gases,kg CO2e per USD of sector output
+524113/US,0.05184269756265475,Direct life insurance carriers,524113,US,52: Finance and Insurance/5241: Insurance Carriers,USD,Greenhouse Gases,kg CO2e per USD of sector output
+5241XX/US,0.0354168772778279,"Insurance carriers, except direct life",5241XX,US,52: Finance and Insurance/5241: Insurance Carriers,USD,Greenhouse Gases,kg CO2e per USD of sector output
+524200/US,0.02919956472238159,Insurance agencies and brokerages,524200,US,"52: Finance and Insurance/5242: Agencies, Brokerages, and Other Insurance Related Activities",USD,Greenhouse Gases,kg CO2e per USD of sector output
+525000/US,0.2408545133665335,"Funds, trusts, and financial vehicles",525000,US,52: Finance and Insurance/5251: Insurance and Employee Benefit Funds,USD,Greenhouse Gases,kg CO2e per USD of sector output
+531HSO/US,0.04055022273322769,Owner-occupied housing,531HSO,US,53: Real Estate and Rental and Leasing/,USD,Greenhouse Gases,kg CO2e per USD of sector output
+531HST/US,0.03439717297187334,Tenant-occupied housing,531HST,US,53: Real Estate and Rental and Leasing/,USD,Greenhouse Gases,kg CO2e per USD of sector output
+531ORE/US,0.2762880790613381,Other real estate,531ORE,US,53: Real Estate and Rental and Leasing/,USD,Greenhouse Gases,kg CO2e per USD of sector output
+532100/US,0.1278558103934149,Vehicle rental and leasing,532100,US,53: Real Estate and Rental and Leasing/5321: Automotive Equipment Rental and Leasing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+532400/US,0.124977742640368,Commercial equipment rental,532400,US,53: Real Estate and Rental and Leasing/5324: Commercial and Industrial Machinery and Equipment Rental and Leasing,USD,Greenhouse Gases,kg CO2e per USD of sector output
+532A00/US,0.1215575608688751,Consumer goods and general rental centers,532A00,US,53: Real Estate and Rental and Leasing/5322: Consumer Goods Rental,USD,Greenhouse Gases,kg CO2e per USD of sector output
+533000/US,0.06129249543675361,Lessors of nonfinancial intangible assets,533000,US,53: Real Estate and Rental and Leasing/5331: Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),USD,Greenhouse Gases,kg CO2e per USD of sector output
+541100/US,0.05162779126855684,Legal services,541100,US,"54: Professional, Scientific, and Technical Services/5411: Legal Services",USD,Greenhouse Gases,kg CO2e per USD of sector output
+541511/US,0.0844899574502866,Custom computer programming,541511,US,"54: Professional, Scientific, and Technical Services/5415: Computer Systems Design and Related Services",USD,Greenhouse Gases,kg CO2e per USD of sector output
+541512/US,0.0850057884510131,Computer systems design,541512,US,"54: Professional, Scientific, and Technical Services/5415: Computer Systems Design and Related Services",USD,Greenhouse Gases,kg CO2e per USD of sector output
+54151A/US,0.0787119075430328,"Other computer related services, including facilities management",54151A,US,"54: Professional, Scientific, and Technical Services/5415: Computer Systems Design and Related Services",USD,Greenhouse Gases,kg CO2e per USD of sector output
+541200/US,0.06123235421155913,"Accounting, tax preparation, bookkeeping, and payroll",541200,US,"54: Professional, Scientific, and Technical Services/5412: Accounting, Tax Preparation, Bookkeeping, and Payroll Services",USD,Greenhouse Gases,kg CO2e per USD of sector output
+541300/US,0.1198517676173171,"Architectural, engineering, and related services",541300,US,"54: Professional, Scientific, and Technical Services/5413: Architectural, Engineering, and Related Services",USD,Greenhouse Gases,kg CO2e per USD of sector output
+541610/US,0.0771801688687482,Management consulting,541610,US,"54: Professional, Scientific, and Technical Services/5416: Management, Scientific, and Technical Consulting Services",USD,Greenhouse Gases,kg CO2e per USD of sector output
+5416A0/US,0.09608284931860891,Environmental and other technical consulting services,5416A0,US,"54: Professional, Scientific, and Technical Services/5416: Management, Scientific, and Technical Consulting Services",USD,Greenhouse Gases,kg CO2e per USD of sector output
+541700/US,0.1821153454521792,Scientific research and development,541700,US,"54: Professional, Scientific, and Technical Services/5417: Scientific Research and Development Services",USD,Greenhouse Gases,kg CO2e per USD of sector output
+541800/US,0.09140470990634553,Advertising and public relations,541800,US,"54: Professional, Scientific, and Technical Services/5418: Advertising, Public Relations, and Related Services",USD,Greenhouse Gases,kg CO2e per USD of sector output
+541400/US,0.1005230440259667,Specialized design,541400,US,"54: Professional, Scientific, and Technical Services/5414: Specialized Design Services",USD,Greenhouse Gases,kg CO2e per USD of sector output
+541920/US,0.1254251640980652,Photographers,541920,US,"54: Professional, Scientific, and Technical Services/5419: Other Professional, Scientific, and Technical Services",USD,Greenhouse Gases,kg CO2e per USD of sector output
+541940/US,0.1508802363491293,Veterinarians,541940,US,"54: Professional, Scientific, and Technical Services/5419: Other Professional, Scientific, and Technical Services",USD,Greenhouse Gases,kg CO2e per USD of sector output
+5419A0/US,0.09232630842627702,"Marketing research and all other miscellaneous professional, scientific, and technical services",5419A0,US,"54: Professional, Scientific, and Technical Services/5419: Other Professional, Scientific, and Technical Services",USD,Greenhouse Gases,kg CO2e per USD of sector output
+550000/US,0.08665262095823732,Company and enterprise management,550000,US,55: Management of Companies and Enterprises/5511: Management of Companies and Enterprises,USD,Greenhouse Gases,kg CO2e per USD of sector output
+561300/US,0.06038572761782317,Employment services,561300,US,56: Administrative and Support and Waste Management and Remediation Services/5613: Employment Services,USD,Greenhouse Gases,kg CO2e per USD of sector output
+561700/US,0.2400652029954956,Buildings and dwellings services,561700,US,56: Administrative and Support and Waste Management and Remediation Services/5617: Services to Buildings and Dwellings,USD,Greenhouse Gases,kg CO2e per USD of sector output
+561100/US,0.1029665382414501,Office administration,561100,US,56: Administrative and Support and Waste Management and Remediation Services/5611: Office Administrative Services,USD,Greenhouse Gases,kg CO2e per USD of sector output
+561200/US,0.2304772412519985,Facilities support,561200,US,56: Administrative and Support and Waste Management and Remediation Services/5612: Facilities Support Services,USD,Greenhouse Gases,kg CO2e per USD of sector output
+561400/US,0.1225420282870958,Business support,561400,US,56: Administrative and Support and Waste Management and Remediation Services/5614: Business Support Services,USD,Greenhouse Gases,kg CO2e per USD of sector output
+561500/US,0.09309882319336701,Travel arrangement and reservation,561500,US,56: Administrative and Support and Waste Management and Remediation Services/5615: Travel Arrangement and Reservation Services,USD,Greenhouse Gases,kg CO2e per USD of sector output
+561600/US,0.0922722866388098,Investigation and security,561600,US,56: Administrative and Support and Waste Management and Remediation Services/5616: Investigation and Security Services,USD,Greenhouse Gases,kg CO2e per USD of sector output
+561900/US,0.1489363785073143,Other support services,561900,US,56: Administrative and Support and Waste Management and Remediation Services/5619: Other Support Services,USD,Greenhouse Gases,kg CO2e per USD of sector output
+562000/US,1.281715232063902,Waste management and remediation,562000,US,56: Administrative and Support and Waste Management and Remediation Services/,USD,Greenhouse Gases,kg CO2e per USD of sector output
+611100/US,0.2212934348912126,Elementary and secondary schools,611100,US,61: Educational Services/6111: Elementary and Secondary Schools,USD,Greenhouse Gases,kg CO2e per USD of sector output
+611A00/US,0.1595665091893604,"Colleges, universities, junior colleges, and professional schools",611A00,US,61: Educational Services/,USD,Greenhouse Gases,kg CO2e per USD of sector output
+611B00/US,0.1165883749613823,Other educational services,611B00,US,61: Educational Services/,USD,Greenhouse Gases,kg CO2e per USD of sector output
+621100/US,0.09057744201528842,Physicians,621100,US,62: Health Care and Social Assistance/6211: Offices of Physicians,USD,Greenhouse Gases,kg CO2e per USD of sector output
+621200/US,0.06632670480866296,Dentists,621200,US,62: Health Care and Social Assistance/6212: Offices of Dentists,USD,Greenhouse Gases,kg CO2e per USD of sector output
+621300/US,0.1097213921072178,Healthcare practitioners (except physicians and dentists),621300,US,62: Health Care and Social Assistance/6213: Offices of Other Health Practitioners,USD,Greenhouse Gases,kg CO2e per USD of sector output
+621400/US,0.1090097806827848,Outpatient healthcare,621400,US,62: Health Care and Social Assistance/6214: Outpatient Care Centers,USD,Greenhouse Gases,kg CO2e per USD of sector output
+621500/US,0.08634439622473324,Medical laboratories,621500,US,62: Health Care and Social Assistance/6215: Medical and Diagnostic Laboratories,USD,Greenhouse Gases,kg CO2e per USD of sector output
+621600/US,0.1202703356301538,Home healthcare,621600,US,62: Health Care and Social Assistance/6216: Home Health Care Services,USD,Greenhouse Gases,kg CO2e per USD of sector output
+621900/US,0.1911094880596186,Ambulances,621900,US,62: Health Care and Social Assistance/6219: Other Ambulatory Health Care Services,USD,Greenhouse Gases,kg CO2e per USD of sector output
+622000/US,0.1690127097169875,Hospitals,622000,US,62: Health Care and Social Assistance/6221: General Medical and Surgical Hospitals,USD,Greenhouse Gases,kg CO2e per USD of sector output
+623A00/US,0.1873089408072985,Nursing and community care facilities,623A00,US,62: Health Care and Social Assistance/6231: Nursing Care Facilities (Skilled Nursing Facilities),USD,Greenhouse Gases,kg CO2e per USD of sector output
+623B00/US,0.1569196541017543,"Residential mental retardation, mental health, substance abuse and other facilities",623B00,US,"62: Health Care and Social Assistance/6232: Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities",USD,Greenhouse Gases,kg CO2e per USD of sector output
+624100/US,0.1434782673381919,Individual and family services,624100,US,62: Health Care and Social Assistance/6241: Individual and Family Services,USD,Greenhouse Gases,kg CO2e per USD of sector output
+624400/US,0.252640646765863,Child day care,624400,US,62: Health Care and Social Assistance/6244: Child Day Care Services,USD,Greenhouse Gases,kg CO2e per USD of sector output
+624A00/US,0.2598411009426169,"Community food, housing, and other relief services, including rehabilitation services",624A00,US,"62: Health Care and Social Assistance/6242: Community Food and Housing, and Emergency and Other Relief Services",USD,Greenhouse Gases,kg CO2e per USD of sector output
+711100/US,0.09516909030610274,Performances,711100,US,"71: Arts, Entertainment, and Recreation/7111: Performing Arts Companies",USD,Greenhouse Gases,kg CO2e per USD of sector output
+711200/US,0.06962137948429548,Sports,711200,US,"71: Arts, Entertainment, and Recreation/7112: Spectator Sports",USD,Greenhouse Gases,kg CO2e per USD of sector output
+711500/US,0.03744473909350968,"Independent artists, writers, and performers",711500,US,"71: Arts, Entertainment, and Recreation/7115: Independent Artists, Writers, and Performers",USD,Greenhouse Gases,kg CO2e per USD of sector output
+711A00/US,0.09767428460316131,Promoters and agents,711A00,US,"71: Arts, Entertainment, and Recreation/7113: Promoters of Performing Arts, Sports, and Similar Events",USD,Greenhouse Gases,kg CO2e per USD of sector output
+712000/US,0.1559760146899661,"Museums, historical sites, zoos, and parks",712000,US,"71: Arts, Entertainment, and Recreation/7121: Museums, Historical Sites, and Similar Institutions",USD,Greenhouse Gases,kg CO2e per USD of sector output
+713100/US,0.2101149302354441,Amusement parks and arcades,713100,US,"71: Arts, Entertainment, and Recreation/7131: Amusement Parks and Arcades",USD,Greenhouse Gases,kg CO2e per USD of sector output
+713200/US,0.2113864682455066,Gambling establishments (except casino hotels),713200,US,"71: Arts, Entertainment, and Recreation/7132: Gambling Industries",USD,Greenhouse Gases,kg CO2e per USD of sector output
+713900/US,0.29530764703806,"Golf courses, marinas, ski resorts, fitness and other rec centers and industries",713900,US,"71: Arts, Entertainment, and Recreation/7139: Other Amusement and Recreation Industries",USD,Greenhouse Gases,kg CO2e per USD of sector output
+721000/US,0.1745188728133147,Hotels and campgrounds,721000,US,72: Accommodation and Food Services/7211: Traveler Accommodation,USD,Greenhouse Gases,kg CO2e per USD of sector output
+722110/US,0.262040829521229,Full-service restaurants,722110,US,72: Accommodation and Food Services/7225: Restaurants and Other Eating Places,USD,Greenhouse Gases,kg CO2e per USD of sector output
+722211/US,0.3676016242227335,Limited-service restaurants,722211,US,72: Accommodation and Food Services/7225: Restaurants and Other Eating Places,USD,Greenhouse Gases,kg CO2e per USD of sector output
+722A00/US,0.1794004845840518,All other food and drinking places,722A00,US,72: Accommodation and Food Services/7223: Special Food Services,USD,Greenhouse Gases,kg CO2e per USD of sector output
+811100/US,0.1433161706851702,Vehicle repair,811100,US,81: Other Services (except Public Administration)/8111: Automotive Repair and Maintenance,USD,Greenhouse Gases,kg CO2e per USD of sector output
+811200/US,0.1018830106499166,Electronic  equipment repair and maintenance,811200,US,81: Other Services (except Public Administration)/8112: Electronic and Precision Equipment Repair and Maintenance,USD,Greenhouse Gases,kg CO2e per USD of sector output
+811300/US,0.1844637246454464,Commercial machinery repair,811300,US,81: Other Services (except Public Administration)/8113: Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,USD,Greenhouse Gases,kg CO2e per USD of sector output
+811400/US,0.1505604069318727,Household goods repair,811400,US,81: Other Services (except Public Administration)/8114: Personal and Household Goods Repair and Maintenance,USD,Greenhouse Gases,kg CO2e per USD of sector output
+812100/US,0.1531925684916392,Salons and barber shops,812100,US,81: Other Services (except Public Administration)/8121: Personal Care Services,USD,Greenhouse Gases,kg CO2e per USD of sector output
+812200/US,0.05144525925062495,Funerary services,812200,US,81: Other Services (except Public Administration)/8122: Death Care Services,USD,Greenhouse Gases,kg CO2e per USD of sector output
+812300/US,0.1936214538856483,Dry-cleaning and laundry,812300,US,81: Other Services (except Public Administration)/8123: Drycleaning and Laundry Services,USD,Greenhouse Gases,kg CO2e per USD of sector output
+812900/US,0.133899120439522,"Pet care, photofinishing, parking and other sundry services",812900,US,81: Other Services (except Public Administration)/8129: Other Personal Services,USD,Greenhouse Gases,kg CO2e per USD of sector output
+813100/US,0.09055109551616869,Religious organizations,813100,US,81: Other Services (except Public Administration)/8131: Religious Organizations,USD,Greenhouse Gases,kg CO2e per USD of sector output
+813A00/US,0.07085355043848489,"Grantmaking, giving, and social advocacy organizations",813A00,US,81: Other Services (except Public Administration)/8132: Grantmaking and Giving Services,USD,Greenhouse Gases,kg CO2e per USD of sector output
+813B00/US,0.1488490610262445,"Civic, social, professional, and similar organizations",813B00,US,81: Other Services (except Public Administration)/8134: Civic and Social Organizations,USD,Greenhouse Gases,kg CO2e per USD of sector output
+814000/US,0.0,Household employees,814000,US,81: Other Services (except Public Administration)/8141: Private Households,USD,Greenhouse Gases,kg CO2e per USD of sector output
+S00500/US,0.1276678698023273,Federal general government (defense),S00500,US,Other Activities/Government,USD,Greenhouse Gases,kg CO2e per USD of sector output
+S00600/US,0.2533493570786092,Federal general government (nondefense),S00600,US,Other Activities/Government,USD,Greenhouse Gases,kg CO2e per USD of sector output
+491000/US,0.08584468758463464,Postal service,491000,US,48-49: Transportation and Warehousing/4911: Postal Service,USD,Greenhouse Gases,kg CO2e per USD of sector output
+S00102/US,0.3275338233459253,Other federal government enterprises,S00102,US,Other Activities/Government,USD,Greenhouse Gases,kg CO2e per USD of sector output
+GSLGE/US,0.1440128000221162,State and local government educational services,GSLGE,US,Other Activities/Government,USD,Greenhouse Gases,kg CO2e per USD of sector output
+GSLGH/US,0.2715031521038995,State and local government hospitals and health services,GSLGH,US,Other Activities/Government,USD,Greenhouse Gases,kg CO2e per USD of sector output
+GSLGO/US,0.2811881234761284,State and local government other services,GSLGO,US,Other Activities/Government,USD,Greenhouse Gases,kg CO2e per USD of sector output
+S00203/US,0.4043489270916327,Other state and local government enterprises,S00203,US,Other Activities/Government,USD,Greenhouse Gases,kg CO2e per USD of sector output
+S00401/US,0.539244907348883,Scrap,S00401,US,Other Activities/,USD,Greenhouse Gases,kg CO2e per USD of sector output
+S00402/US,0.0,Used and secondhand goods,S00402,US,Other Activities/,USD,Greenhouse Gases,kg CO2e per USD of sector output
+S00300/US,0.0,Noncomparable imports,S00300,US,Other Activities/,USD,Greenhouse Gases,kg CO2e per USD of sector output
+S00900/US,0.2533493570786092,Rest of the world adjustment,S00900,US,Other Activities/,USD,Greenhouse Gases,kg CO2e per USD of sector output
